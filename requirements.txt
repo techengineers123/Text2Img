@@ -2,5 +2,7 @@ streamlit
 torch
 diffusers
 transformers
-speechrecognition
-pyaudio
+accelerate
+SpeechRecognition
+Pillow
+PyAudio
